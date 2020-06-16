@@ -11,6 +11,5 @@
         # security
         'security/security.xml',
         # views
-        'views/res_users.xml',
     ],
 }
