@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Users Prices Security',
-    'version': '1.1.0',
+    'version': '13.0.1.0.0',
     'author': 'HomebrewSoft',
     'website': 'https://github.com/HomebrewSoft/users_prices_security',
     'depends': [
